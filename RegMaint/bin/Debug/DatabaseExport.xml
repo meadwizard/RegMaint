@@ -1,0 +1,6301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <regData>
+    <Registration>
+      <RegId>1000</RegId>
+      <FirstName>Daniel </FirstName>
+      <LastName>Stratton</LastName>
+      <RegDate>2016-01-30T11:29:15Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>732A Goshen Hill Rd.</Address>
+      <City>Lebanon</City>
+      <State>CT</State>
+      <Zipcode>06249</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>860-642-6271</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>2 Feathers</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1001</RegId>
+      <FirstName>Nicole</FirstName>
+      <LastName>Kilburg</LastName>
+      <RegDate>2016-01-31T11:29:00Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Rustic Cabin</Housing>
+      <Address>156 Mill Street #5</Address>
+      <City>Poughkeepsie</City>
+      <State>NY</State>
+      <Zipcode>12601</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>395.00</AmountPaid>
+      <BestPhone>8453923317</BestPhone>
+      <SecondPhone>2154210633</SecondPhone>
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>false</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1002</RegId>
+      <FirstName>LORNA</FirstName>
+      <LastName>TIBBETTS</LastName>
+      <RegDate>2016-01-31T12:35:37Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>11 JEWETT ST APT D</Address>
+      <City>LACONIA</City>
+      <State>NH</State>
+      <Zipcode>03246</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>455.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>455.00</AmountPaid>
+      <BestPhone>6038323879</BestPhone>
+      <SecondPhone />
+      <Needs>DEPENDING ON WHERE THINGS ARE TAKING PLACE i MAY NEED RIDES</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1003</RegId>
+      <FirstName>Donovan</FirstName>
+      <LastName>Arthen</LastName>
+      <RegDate>2016-02-04T04:03:30Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>box 628</Address>
+      <City>Worthington</City>
+      <State>MA</State>
+      <Zipcode>01098</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>4132626409</BestPhone>
+      <SecondPhone>4132384453</SecondPhone>
+      <Needs />
+      <GroupName>Donovan</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1004</RegId>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <RegDate>2016-02-06T08:07:50Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>654 East Dawson Rd</Address>
+      <City>Milford</City>
+      <State>MI</State>
+      <Zipcode>48381</Zipcode>
+      <Country>'Merica!</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>555.00</CalculatedAmount>
+      <AmountDue>555.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>248-425-2777</BestPhone>
+      <SecondPhone />
+      <Needs>Have baby, need sleep.</Needs>
+      <GroupName>Kaia</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1005</RegId>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <RegDate>2016-02-06T08:08:16Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>654 East Dawson Rd</Address>
+      <City>Milford</City>
+      <State>MI</State>
+      <Zipcode>48381</Zipcode>
+      <Country>'Merica!</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>555.00</CalculatedAmount>
+      <AmountDue>555.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>248-425-2777</BestPhone>
+      <SecondPhone />
+      <Needs>Have baby, need sleep.</Needs>
+      <GroupName>Kaia</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1006</RegId>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <RegDate>2016-02-06T08:11:42Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>654 East Dawson Rd</Address>
+      <City>Milford</City>
+      <State>MI</State>
+      <Zipcode>48381</Zipcode>
+      <Country>'Merica!</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>555.00</CalculatedAmount>
+      <AmountDue>555.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>248-425-2777</BestPhone>
+      <SecondPhone />
+      <Needs>Have baby, need sleep.</Needs>
+      <GroupName>Kaia</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1007</RegId>
+      <FirstName>Meesha</FirstName>
+      <LastName>Crowther</LastName>
+      <RegDate>2016-02-06T09:00:29Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>43 Cronin Hill Rd</Address>
+      <City>Hatfield</City>
+      <State>MA</State>
+      <Zipcode>01038</Zipcode>
+      <Country>US</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>413-441-4851</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>ME</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1008</RegId>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <RegDate>2016-02-07T09:07:45Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>654 East Dawson Rd</Address>
+      <City>Milford</City>
+      <State>MI</State>
+      <Zipcode>48381</Zipcode>
+      <Country>'Merica!</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>555.00</CalculatedAmount>
+      <AmountDue>555.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>248-425-2777</BestPhone>
+      <SecondPhone />
+      <Needs>Have baby, need sleep.</Needs>
+      <GroupName>Kaia</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1009</RegId>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <RegDate>2016-02-07T09:11:10Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>654 East Dawson Rd</Address>
+      <City>Milford</City>
+      <State>MI</State>
+      <Zipcode>48381</Zipcode>
+      <Country>'Merica!</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>555.00</CalculatedAmount>
+      <AmountDue>555.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>248-425-2777</BestPhone>
+      <SecondPhone />
+      <Needs>Have baby, need sleep.</Needs>
+      <GroupName>Kaia</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1010</RegId>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <RegDate>2016-02-07T12:08:10Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>654 East Dawson Rd</Address>
+      <City>Milford</City>
+      <State>MI</State>
+      <Zipcode>48381</Zipcode>
+      <Country>'Merica!</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>555.00</CalculatedAmount>
+      <AmountDue>555.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>248-425-2777</BestPhone>
+      <SecondPhone />
+      <Needs>Have baby, need sleep.</Needs>
+      <GroupName>Kaia</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1011</RegId>
+      <FirstName>Stephen</FirstName>
+      <LastName>Morley</LastName>
+      <RegDate>2016-02-07T12:32:39Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>60 Portland Ave</Address>
+      <City>Redding</City>
+      <State>CT</State>
+      <Zipcode>06896</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>495.00</AmountPaid>
+      <BestPhone>203.733.2578</BestPhone>
+      <SecondPhone>203.733.2578</SecondPhone>
+      <Needs />
+      <GroupName>Big Cabin</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1012</RegId>
+      <FirstName>Anna </FirstName>
+      <LastName>Meltser</LastName>
+      <RegDate>2016-02-08T15:36:53Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>215 Greene St #5</Address>
+      <City>New Haven</City>
+      <State>CT</State>
+      <Zipcode>06511</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>500.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>500.00</AmountPaid>
+      <BestPhone>617-678-0641</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Donovan</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1013</RegId>
+      <FirstName>Tracy</FirstName>
+      <LastName>Wharton</LastName>
+      <RegDate>2016-02-08T23:29:43Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>972 Troon Trce</Address>
+      <City>Winter Springs</City>
+      <State>FL</State>
+      <Zipcode>32708</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>500.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>500.00</AmountPaid>
+      <BestPhone>508-280-8715</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1014</RegId>
+      <FirstName>Rev</FirstName>
+      <LastName>DiCerto</LastName>
+      <RegDate>2016-02-09T22:17:05Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>130 Main Street A1</Address>
+      <City>Norwalk</City>
+      <State>CT</State>
+      <Zipcode>06851</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>505.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>505.00</AmountPaid>
+      <BestPhone>203-803-0786</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1015</RegId>
+      <FirstName>Natalie</FirstName>
+      <LastName>Johnsen</LastName>
+      <RegDate>2016-02-10T16:57:20Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>73 Carlton Ave #C38</Address>
+      <City>Port Washington</City>
+      <State>NY</State>
+      <Zipcode>11050</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>400.00</CalculatedAmount>
+      <AmountDue>400.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>516-563-0689</BestPhone>
+      <SecondPhone>516-467-4817</SecondPhone>
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1016</RegId>
+      <FirstName>Ann</FirstName>
+      <LastName>Schmitt</LastName>
+      <RegDate>2016-02-13T08:06:44Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>60 Portland Ave</Address>
+      <City>Redding</City>
+      <State>CT</State>
+      <Zipcode>06896</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>395.00</AmountPaid>
+      <BestPhone>203.544.8851</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1017</RegId>
+      <FirstName>Edmund</FirstName>
+      <LastName>Davis-Quinn</LastName>
+      <RegDate>2016-02-14T16:41:42Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Rustic Cabin</Housing>
+      <Address>222 N. State Street, Floor 1</Address>
+      <City>Ansonia</City>
+      <State>CT</State>
+      <Zipcode>06401</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>400.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>400.00</AmountPaid>
+      <BestPhone>2073326754</BestPhone>
+      <SecondPhone>2073326754</SecondPhone>
+      <Needs />
+      <GroupName>EdLanna</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1018</RegId>
+      <FirstName>Sharon</FirstName>
+      <LastName>Gadonniex</LastName>
+      <RegDate>2016-02-14T23:00:04Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>18 Allen St</Address>
+      <City>Arlington</City>
+      <State>MA</State>
+      <Zipcode>02474</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>400.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>400.00</AmountPaid>
+      <BestPhone>5085176694</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1019</RegId>
+      <FirstName>Whispering</FirstName>
+      <LastName>Deer</LastName>
+      <RegDate>2016-02-14T23:02:45Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>18 Allen St</Address>
+      <City>Arlington</City>
+      <State>MA</State>
+      <Zipcode>02474</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>395.00</AmountPaid>
+      <BestPhone>5085176694</BestPhone>
+      <SecondPhone>7816467539</SecondPhone>
+      <Needs>Whispering Deer is severely allergic to tree nuts </Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <merchantInfo>
+        <merchantID>1000</merchantID>
+        <regID>1020</regID>
+        <businessName>Body Art By Shara / Funky Fairy</businessName>
+        <businessAddress>178 Pearl Hill Rd., Fitchburg, MA 01420</businessAddress>
+        <businessPhone>6074274710</businessPhone>
+        <businessEmail>Shara@BodyArtByShara.com</businessEmail>
+        <description>10'x10'</description>
+        <merchandise>Body Art (body paint, henna, temporary tattoos)
+funky jewelry</merchandise>
+        <previous>for the past 20+ years.</previous>
+        <sleepInMerchants>false</sleepInMerchants>
+        <donateDetail>Body Art redeemable certificate (good for 1 year) for henna or paint. ($40 value or more if more $ are paid).</donateDetail>
+        <barterFlag>true</barterFlag>
+        <cashFlag>true</cashFlag>
+        <checkFlag>true</checkFlag>
+        <visamcFlag>true</visamcFlag>
+        <discoverFlag>false</discoverFlag>
+        <amexFlag>false</amexFlag>
+      </merchantInfo>
+      <RegId>1020</RegId>
+      <FirstName>Shara</FirstName>
+      <LastName>Osgood</LastName>
+      <RegDate>2016-02-15T11:45:37Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>178 Pearl Hill Rd.</Address>
+      <City>Fitchburg</City>
+      <State>MA</State>
+      <Zipcode>01420</Zipcode>
+      <Country>United States</Country>
+      <Vendor>true</Vendor>
+      <CalculatedAmount>400.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>400.00</AmountPaid>
+      <BestPhone>6074274710</BestPhone>
+      <SecondPhone>9786659906</SecondPhone>
+      <Needs>We love being in the cabins behind the kids club (as we have been for the past few years).</Needs>
+      <GroupName>Cool Kids </GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1021</RegId>
+      <FirstName>Helena</FirstName>
+      <LastName>Hall</LastName>
+      <RegDate>2016-02-16T17:07:52Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>36 red oak drive</Address>
+      <City>keene</City>
+      <State>NH</State>
+      <Zipcode>03431</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>455.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>455.00</AmountPaid>
+      <BestPhone>6037622435</BestPhone>
+      <SecondPhone>6037622435</SecondPhone>
+      <Needs />
+      <GroupName>Junie Moon</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1022</RegId>
+      <FirstName>June</FirstName>
+      <LastName>Schreiber</LastName>
+      <RegDate>2016-02-16T17:18:34Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>54 notch rd</Address>
+      <City>oak ridge</City>
+      <State>NJ</State>
+      <Zipcode>07438</Zipcode>
+      <Country>usa</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>470.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>470.00</AmountPaid>
+      <BestPhone>973-464-8739</BestPhone>
+      <SecondPhone>973-874-0427</SecondPhone>
+      <Needs>I have a foot injury. I can not be in bear rock lodge due to the walking distance. Helena and I would prefer Parker Sealy and if that is not avaialble , I would like to be in the heated housing near the parkig lot. I dont remember the name. 
+Helena wants to be with Morwen if we do not get parker. I want heat. thanks!!!!!</Needs>
+      <GroupName>Helena</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1023</RegId>
+      <FirstName>Will</FirstName>
+      <LastName>Rowan</LastName>
+      <RegDate>2016-02-17T16:55:27Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>286 Route 308 Apt B</Address>
+      <City>Rhinebeck</City>
+      <State>NY</State>
+      <Zipcode>12572</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>8022587563</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1024</RegId>
+      <FirstName>Lynn</FirstName>
+      <LastName>Rowan</LastName>
+      <RegDate>2016-02-17T17:00:32Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>286 Route 308, Apt B</Address>
+      <City>Rhinebeck</City>
+      <State>NY</State>
+      <Zipcode>12572</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>8022587563</BestPhone>
+      <SecondPhone>8022587563</SecondPhone>
+      <Needs>Re: VB Groves:
+I really have no preference which grove I'm in. You can put me wherever I would be useful.</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1025</RegId>
+      <FirstName>Jocelyn</FirstName>
+      <LastName>VanBokkelen</LastName>
+      <RegDate>2016-02-18T07:25:09Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>96 Woodman Rd.</Address>
+      <City>South Hampton</City>
+      <State>NH</State>
+      <Zipcode>03827</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>400.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>400.00</AmountPaid>
+      <BestPhone>6037703461</BestPhone>
+      <SecondPhone>6037703461</SecondPhone>
+      <Needs>"won" the auction of the quidditch cabin (near bare rock lodge) at last year's rites.</Needs>
+      <GroupName>Quiddich</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1026</RegId>
+      <FirstName>Kane</FirstName>
+      <LastName>Two Feathers</LastName>
+      <RegDate>2016-02-19T13:53:00Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>40 Tower st</Address>
+      <City>Jamaica Plain</City>
+      <State>MA</State>
+      <Zipcode>02130</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>857-261-2614</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Uhhhh</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1027</RegId>
+      <FirstName>Brianna</FirstName>
+      <LastName>Walsh</LastName>
+      <RegDate>2016-02-19T14:01:06Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>40 Tower st</Address>
+      <City>Jamaica Plain</City>
+      <State>MA</State>
+      <Zipcode>02130</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>603-943-1629</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Uhhh</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1028</RegId>
+      <FirstName>Alan</FirstName>
+      <LastName>Stillman</LastName>
+      <RegDate>2016-02-20T15:08:11Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>4775 East Lake Road</Address>
+      <City>Cazenovai</City>
+      <State>NY</State>
+      <Zipcode>13035</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>500.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>500.00</AmountPaid>
+      <BestPhone>315-378-5933</BestPhone>
+      <SecondPhone>315-655-9364</SecondPhone>
+      <Needs>None</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1029</RegId>
+      <FirstName>Deb</FirstName>
+      <LastName>Banks McIntosh</LastName>
+      <RegDate>2016-02-23T09:09:06Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>15 Lloyd Street</Address>
+      <City>South Hadley</City>
+      <State>MA</State>
+      <Zipcode>01075</Zipcode>
+      <Country>usa</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>745.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>745.00</AmountPaid>
+      <BestPhone>413-552-8913</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>cat tree</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1030</RegId>
+      <FirstName>Joy</FirstName>
+      <LastName>Auciello</LastName>
+      <RegDate>2016-02-23T09:27:48Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>66 Quincy St</Address>
+      <City>Medford</City>
+      <State>MA</State>
+      <Zipcode>02155</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>395.00</AmountPaid>
+      <BestPhone>8028298004</BestPhone>
+      <SecondPhone>8028298004</SecondPhone>
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1031</RegId>
+      <FirstName>Anne</FirstName>
+      <LastName>Banks</LastName>
+      <RegDate>2016-02-23T09:32:58Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>9 Randall Dr</Address>
+      <City>Suffield</City>
+      <State>CT</State>
+      <Zipcode>06078</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>495.00</AmountPaid>
+      <BestPhone>860-965-4278</BestPhone>
+      <SecondPhone>860-668-5650</SecondPhone>
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1032</RegId>
+      <FirstName>Sophia </FirstName>
+      <LastName>Gracia</LastName>
+      <RegDate>2016-02-23T20:47:31Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>1666 Commonwealth Ave, Apt 42</Address>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zipcode>02135</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>395.00</AmountPaid>
+      <BestPhone>978-317-6403</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1033</RegId>
+      <FirstName>Alison</FirstName>
+      <LastName>Mee</LastName>
+      <RegDate>2016-02-24T11:44:36Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Rustic Cabin</Housing>
+      <Address>83 Shady Valley Ln</Address>
+      <City>Harpers Ferry</City>
+      <State>WV</State>
+      <Zipcode>25425</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>695.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>695.00</AmountPaid>
+      <BestPhone>7329916877</BestPhone>
+      <SecondPhone>7329916877</SecondPhone>
+      <Needs>Please register Carl Freiler, who will be age 16, for weekend only, full meal plan (omnivore).    He will be arriving Friday via the bus at Great Barrington, and if there is a shuttle picking people up there, it would be great if he could be picked up just like any other person arriving via public transportation.   (In other words, we think it would be cool for him if after his adventure of taking three buses to get from a conference in Ohio, to Rites of Spring, if it didn't need to be his parents meeting him at the bus station.   It would be empowering if he could do the whole journey on his own.)</Needs>
+      <GroupName>Freiler</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1034</RegId>
+      <FirstName>John</FirstName>
+      <LastName>Freiler</LastName>
+      <RegDate>2016-02-24T11:49:15Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Rustic Cabin</Housing>
+      <Address>83 Shady Valley Ln</Address>
+      <City>Harpers Ferry</City>
+      <State>WV</State>
+      <Zipcode>25425</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>400.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>400.00</AmountPaid>
+      <BestPhone>732-947-8504</BestPhone>
+      <SecondPhone>7329916877</SecondPhone>
+      <Needs />
+      <GroupName>Freiler</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1035</RegId>
+      <FirstName>Adria</FirstName>
+      <LastName>Martinez</LastName>
+      <RegDate>2016-02-24T11:58:54Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>1804 Irene ct</Address>
+      <City>Woodbridge</City>
+      <State>VA</State>
+      <Zipcode>22191</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>740.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>740.00</AmountPaid>
+      <BestPhone>6074299556</BestPhone>
+      <SecondPhone>6074299556</SecondPhone>
+      <Needs>Adria and Jeff would like bottom bunks that can be moved together, or the option of floor space, for air mattress due to bad backs. </Needs>
+      <GroupName>Martinez </GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1036</RegId>
+      <FirstName>Jeffrey</FirstName>
+      <LastName>Martinez</LastName>
+      <RegDate>2016-02-24T12:04:23Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>1804 Irene ct</Address>
+      <City>Woodbridge</City>
+      <State>VA</State>
+      <Zipcode>22191</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>455.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>455.00</AmountPaid>
+      <BestPhone>6074299556</BestPhone>
+      <SecondPhone>6074299556</SecondPhone>
+      <Needs>Jeff and Adria request bottom bunks that can be pushed together, or floor space,  for an air mattress. Thank you </Needs>
+      <GroupName>Martinez</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1037</RegId>
+      <FirstName>Trevor</FirstName>
+      <LastName>Wentworth</LastName>
+      <RegDate>2016-02-24T17:23:47Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>PO Box 395</Address>
+      <City>Marlboro</City>
+      <State>VT</State>
+      <Zipcode>05344</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>395.00</AmountPaid>
+      <BestPhone>8022467222</BestPhone>
+      <SecondPhone>8022720093</SecondPhone>
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1038</RegId>
+      <FirstName>Adam</FirstName>
+      <LastName>Katrick</LastName>
+      <RegDate>2016-02-24T17:35:41Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>PO Box 395</Address>
+      <City>Marlboro</City>
+      <State>VT</State>
+      <Zipcode>05344</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>802-272-0093</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1039</RegId>
+      <FirstName>Holly</FirstName>
+      <LastName>Smith-Young</LastName>
+      <RegDate>2016-02-25T14:20:23Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>48 Harbor St</Address>
+      <City>Pepperell</City>
+      <State>MA</State>
+      <Zipcode>01463</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>7813076111</BestPhone>
+      <SecondPhone>7813076111</SecondPhone>
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1040</RegId>
+      <FirstName>Moira</FirstName>
+      <LastName>Ashleigh</LastName>
+      <RegDate>2016-02-25T17:20:11Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>9 Buck St</Address>
+      <City>Woburn</City>
+      <State>MA</State>
+      <Zipcode>01801</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>455.00</CalculatedAmount>
+      <AmountDue>455.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>7819356190</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>DuMoir</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1041</RegId>
+      <FirstName>Duncan</FirstName>
+      <LastName>Eagleson</LastName>
+      <RegDate>2016-02-25T17:21:55Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>9 Buck St</Address>
+      <City>Woburn</City>
+      <State>MA</State>
+      <Zipcode>01801</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>455.00</CalculatedAmount>
+      <AmountDue>455.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>6179012331</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>DuMoir</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1042</RegId>
+      <FirstName>John</FirstName>
+      <LastName>Linfield</LastName>
+      <RegDate>2016-02-26T11:14:02Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>707 Sodom Road</Address>
+      <City>Norway</City>
+      <State>ME</State>
+      <Zipcode>04268</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>1365.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>1365.00</AmountPaid>
+      <BestPhone>2077301374</BestPhone>
+      <SecondPhone>2077301374</SecondPhone>
+      <Needs />
+      <GroupName>Clan Titan</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1043</RegId>
+      <FirstName>Leslie</FirstName>
+      <LastName>Linfield</LastName>
+      <RegDate>2016-02-26T11:19:47Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>707 Sodom Road</Address>
+      <City>Norway</City>
+      <State>ME</State>
+      <Zipcode>04268</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>555.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>555.00</AmountPaid>
+      <BestPhone>2077302879</BestPhone>
+      <SecondPhone>2077302879</SecondPhone>
+      <Needs>Limited mobility and strength, please place me in the appropriate grove</Needs>
+      <GroupName>Clan Titan</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1044</RegId>
+      <FirstName>Eric</FirstName>
+      <LastName>Leventhal Arthen</LastName>
+      <RegDate>2016-02-26T18:16:24Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>P.O. Box 628</Address>
+      <City>Worthington</City>
+      <State>MA</State>
+      <Zipcode>01098</Zipcode>
+      <Country>US</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>545.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>545.00</AmountPaid>
+      <BestPhone>413-530-3398</BestPhone>
+      <SecondPhone>413-238-4453</SecondPhone>
+      <Needs />
+      <GroupName>Sue-C.A.</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1045</RegId>
+      <FirstName>Jodi</FirstName>
+      <LastName>Clark</LastName>
+      <RegDate>2016-02-27T09:37:30Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>28 Greenleaf St..</Address>
+      <City>Brattleboro</City>
+      <State>VT</State>
+      <Zipcode>05301</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>396.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>396.00</AmountPaid>
+      <BestPhone>802-579-5867</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <merchantInfo>
+        <merchantID>1001</merchantID>
+        <regID>1046</regID>
+        <businessName>Auntie Arwen's Spices</businessName>
+        <businessAddress>POB 123, Haddam, CT 06438</businessAddress>
+        <businessPhone>(860)345-2061</businessPhone>
+        <businessEmail>jrsibley@snet.net</businessEmail>
+        <description>10 x 20; would like my original spot near the lodge; if that is unavailable due to construction, the same spot I had last year.</description>
+        <merchandise>spice/seasoning blends, fudge (if any left), my books, some essential oils, baking extracts, catnip mice, chocolate covered coffee beans, etc.</merchandise>
+        <previous>for many, many years</previous>
+        <sleepInMerchants>false</sleepInMerchants>
+        <donateDetail>$20 gift certificate to my shop (that way, the winner can shop for what he/she wants)</donateDetail>
+        <barterFlag>true</barterFlag>
+        <cashFlag>true</cashFlag>
+        <checkFlag>true</checkFlag>
+        <visamcFlag>true</visamcFlag>
+        <discoverFlag>true</discoverFlag>
+        <amexFlag>true</amexFlag>
+      </merchantInfo>
+      <RegId>1046</RegId>
+      <FirstName>Jane</FirstName>
+      <LastName>Sibley</LastName>
+      <RegDate>2016-02-27T13:02:21Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>POB 123</Address>
+      <City>Haddam</City>
+      <State>CT</State>
+      <Zipcode>06438</Zipcode>
+      <Country />
+      <Vendor>true</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>(860)345-2061</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Reindeer</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1047</RegId>
+      <FirstName>joann</FirstName>
+      <LastName>gordon</LastName>
+      <RegDate>2016-02-27T14:58:34Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>112 middlefield rd</Address>
+      <City>peru</City>
+      <State>MA</State>
+      <Zipcode>01235</Zipcode>
+      <Country>usa</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>395.00</AmountPaid>
+      <BestPhone>4136552114</BestPhone>
+      <SecondPhone />
+      <Needs>bathroom nearby</Needs>
+      <GroupName>gordons</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1048</RegId>
+      <FirstName>Amy</FirstName>
+      <LastName>Anderson</LastName>
+      <RegDate>2016-02-27T17:27:49Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>61 Washington Street</Address>
+      <City>Newburyport</City>
+      <State>MA</State>
+      <Zipcode>01950</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>400.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>400.00</AmountPaid>
+      <BestPhone>5088781376</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1049</RegId>
+      <FirstName>Deborah</FirstName>
+      <LastName>Gilchrist</LastName>
+      <RegDate>2016-02-27T17:46:36Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>111 Union street</Address>
+      <City>Johnson City</City>
+      <State>NY</State>
+      <Zipcode>13790</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>495.00</AmountPaid>
+      <BestPhone>6077601831</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <merchantInfo>
+        <merchantID>1002</merchantID>
+        <regID>1050</regID>
+        <businessName>William Leslie</businessName>
+        <businessAddress>PO Box 1194, Albany, NY 12201</businessAddress>
+        <businessPhone>5185050184</businessPhone>
+        <businessEmail>billleslie716@aol.com</businessEmail>
+        <description>10'x10' tent, with massage table and table within.</description>
+        <merchandise>Services - sound therapy / energy work using singing bowls, tuning forks, and other instruments.</merchandise>
+        <previous>First time vending.</previous>
+        <sleepInMerchants>false</sleepInMerchants>
+        <donateDetail />
+        <barterFlag>true</barterFlag>
+        <cashFlag>true</cashFlag>
+        <checkFlag>false</checkFlag>
+        <visamcFlag>false</visamcFlag>
+        <discoverFlag>false</discoverFlag>
+        <amexFlag>false</amexFlag>
+      </merchantInfo>
+      <RegId>1050</RegId>
+      <FirstName>William</FirstName>
+      <LastName>Leslie</LastName>
+      <RegDate>2016-02-27T18:48:02Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>PO Box 1194</Address>
+      <City>Albany</City>
+      <State>NY</State>
+      <Zipcode>12201</Zipcode>
+      <Country />
+      <Vendor>true</Vendor>
+      <CalculatedAmount>455.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>455.00</AmountPaid>
+      <BestPhone>5185050184</BestPhone>
+      <SecondPhone>5185050184</SecondPhone>
+      <Needs>Knee issue, prefer lower bunk.</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1051</RegId>
+      <FirstName>tracey</FirstName>
+      <LastName>seier</LastName>
+      <RegDate>2016-02-27T18:50:11Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>37 Warren Ave</Address>
+      <City>Waltham</City>
+      <State>MA</State>
+      <Zipcode>02452</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>1390.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>1390.00</AmountPaid>
+      <BestPhone>5086416471</BestPhone>
+      <SecondPhone>5086416471</SecondPhone>
+      <Needs />
+      <GroupName>Titan</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1052</RegId>
+      <FirstName>Kenneth</FirstName>
+      <LastName>seier</LastName>
+      <RegDate>2016-02-27T18:53:39Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>37 Warren Ave</Address>
+      <City>Waltham</City>
+      <State>MA</State>
+      <Zipcode>02452</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>755.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>755.00</AmountPaid>
+      <BestPhone>5086416471</BestPhone>
+      <SecondPhone>5086416471</SecondPhone>
+      <Needs>Requires a bottom bunk. Fibromyalgia.  Must have heat, prefers Woodlands to be close to the dining hall and reduce walking distance.</Needs>
+      <GroupName>Titans</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1053</RegId>
+      <FirstName>Minta</FirstName>
+      <LastName>Elsman</LastName>
+      <RegDate>2016-02-28T15:08:39Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>88 Lyman Road, Unit 4</Address>
+      <City>Northampton</City>
+      <State>MA</State>
+      <Zipcode>01060</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>0.00</AmountDue>
+      <AmountPaid>395.00</AmountPaid>
+      <BestPhone>630-212-7174</BestPhone>
+      <SecondPhone />
+      <Needs>This is not a special need, but I don't know where else to enter this information.  I am registering and paying the full registration price because I can afford to do so, and I would like to leave work-study opportunities open to those who need them in order to attend Rites.
+
+However, if there is a shortage of work-study volunteers this year, I would be willing to do work study in exchange for either a partial refund, or a credit to a future EarthSpirit event.</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>false</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1054</RegId>
+      <FirstName>Stanley</FirstName>
+      <LastName>Genthner</LastName>
+      <RegDate>2016-02-28T17:05:06Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>3 Cudworth St</Address>
+      <City>Medford</City>
+      <State>MA</State>
+      <Zipcode>02155</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>7813915453</BestPhone>
+      <SecondPhone>7813915453</SecondPhone>
+      <Needs>Limited m0bility.  Schagticoke.</Needs>
+      <GroupName>Reindeer</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1055</RegId>
+      <FirstName>Sara</FirstName>
+      <LastName>Moore</LastName>
+      <RegDate>2016-02-29T11:12:51Z</RegDate>
+      <RegOptionId>0</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>1 Wysocki Drive, Apt. 10</Address>
+      <City>Dudley</City>
+      <State>MA</State>
+      <Zipcode>01571</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>455.00</CalculatedAmount>
+      <AmountDue>455.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>508-688-5781</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1056</RegId>
+      <FirstName>Test</FirstName>
+      <LastName>Morley</LastName>
+      <RegDate>2016-02-29T11:59:23Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>60 Portland Ave</Address>
+      <City>Redding</City>
+      <State>CT</State>
+      <Zipcode>06896</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>395.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>2037332578</BestPhone>
+      <SecondPhone />
+      <Needs>Test Registration</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1057</RegId>
+      <FirstName>Test</FirstName>
+      <LastName>Morley</LastName>
+      <RegDate>2016-02-29T12:03:43Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>60 Portland Ave</Address>
+      <City>Redding</City>
+      <State>CT</State>
+      <Zipcode>06896</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>395.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>2037332578</BestPhone>
+      <SecondPhone />
+      <Needs>Test Registration</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1058</RegId>
+      <FirstName>Test</FirstName>
+      <LastName>Morley</LastName>
+      <RegDate>2016-02-29T12:04:33Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>60 Portland Ave</Address>
+      <City>Redding</City>
+      <State>CT</State>
+      <Zipcode>06896</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>395.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>2037332578</BestPhone>
+      <SecondPhone />
+      <Needs>Test Registration</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1059</RegId>
+      <FirstName>Sean</FirstName>
+      <LastName>Moore</LastName>
+      <RegDate>2016-02-29T16:47:46Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>122 South Silver Lane #1</Address>
+      <City>Sunderland</City>
+      <State>MA</State>
+      <Zipcode>01375</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>4138964829</BestPhone>
+      <SecondPhone>4138964829</SecondPhone>
+      <Needs />
+      <GroupName>Tribes 6</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1060</RegId>
+      <FirstName>Tiffany</FirstName>
+      <LastName>Davis</LastName>
+      <RegDate>2016-02-29T19:49:38Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>P.O. Box 142</Address>
+      <City>Sunderland</City>
+      <State>MA</State>
+      <Zipcode>01375</Zipcode>
+      <Country>US</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>400.00</CalculatedAmount>
+      <AmountDue>400.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>413-387-8925</BestPhone>
+      <SecondPhone />
+      <Needs>wheat/gluten free</Needs>
+      <GroupName>Mojo Cabin</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1061</RegId>
+      <FirstName>Mark</FirstName>
+      <LastName>Bonczek</LastName>
+      <RegDate>2016-02-29T19:49:38Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>4 Nicole Cir</Address>
+      <City>Southampton</City>
+      <State>MA</State>
+      <Zipcode>01073</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>8602081268</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Kenczek</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1062</RegId>
+      <FirstName>Ashley</FirstName>
+      <LastName>Kendall</LastName>
+      <RegDate>2016-02-29T20:07:15Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>4 nicole cir</Address>
+      <City>southampton</City>
+      <State>MA</State>
+      <Zipcode>01073</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>495.00</CalculatedAmount>
+      <AmountDue>495.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>4133556179</BestPhone>
+      <SecondPhone />
+      <Needs>Please be aware that I will be 7.5 months pregnant at that time.  I plan to participate fully and I don't anticipate special needs.</Needs>
+      <GroupName>Kenczek</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1063</RegId>
+      <FirstName>Sandra</FirstName>
+      <LastName>Rae</LastName>
+      <RegDate>2016-02-29T20:15:21Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>29 Everett St.</Address>
+      <City>Easthampton</City>
+      <State>MA</State>
+      <Zipcode>01027</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>810.00</CalculatedAmount>
+      <AmountDue>810.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>4133208293</BestPhone>
+      <SecondPhone>4133208293</SecondPhone>
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1064</RegId>
+      <FirstName>Steven</FirstName>
+      <LastName>Cohen</LastName>
+      <RegDate>2016-02-29T20:22:19Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>29 Everett St.</Address>
+      <City>Easthampton</City>
+      <State>MA</State>
+      <Zipcode>01027</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>455.00</CalculatedAmount>
+      <AmountDue>455.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>4133208293</BestPhone>
+      <SecondPhone>4133208293</SecondPhone>
+      <Needs />
+      <GroupName>Cohen</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1065</RegId>
+      <FirstName>Timothy</FirstName>
+      <LastName>Lyons</LastName>
+      <RegDate>2016-02-29T23:41:55Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>287 N. Western Drive</Address>
+      <City>South Orange</City>
+      <State>NJ</State>
+      <Zipcode>07079</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>1315.00</CalculatedAmount>
+      <AmountDue>1315.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>646-915-2500</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Deb Banks</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1066</RegId>
+      <FirstName>Tatiana</FirstName>
+      <LastName>Lyons</LastName>
+      <RegDate>2016-02-29T23:47:11Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>287 N. Western Drive</Address>
+      <City>South Orange</City>
+      <State>NJ</State>
+      <Zipcode>07079</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>555.00</CalculatedAmount>
+      <AmountDue>555.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>973-255-0194</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Deb Banks</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1067</RegId>
+      <FirstName>Aaron</FirstName>
+      <LastName>Morse</LastName>
+      <RegDate>2016-03-01T00:00:21Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>294 Davis St.</Address>
+      <City>Greenfield</City>
+      <State>MA</State>
+      <Zipcode>01301</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>395.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>8022369597</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1068</RegId>
+      <FirstName>Theresa</FirstName>
+      <LastName>Matulonis-Archer</LastName>
+      <RegDate>2016-03-01T00:03:31Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>294 Davis Street</Address>
+      <City>Greenfield</City>
+      <State>MA</State>
+      <Zipcode>01301</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>395.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>413-522-7875</BestPhone>
+      <SecondPhone>413-522-7875</SecondPhone>
+      <Needs>Could we please be housed in Frontiers Cabins?
+I need a bottom bunk due to a medical issue.
+Thanks!</Needs>
+      <GroupName>Aaron+Tess</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1069</RegId>
+      <FirstName>Jason</FirstName>
+      <LastName>LeDuc</LastName>
+      <RegDate>2016-03-01T08:52:43Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>1 Seneca Rd</Address>
+      <City>Middlefield</City>
+      <State>CT</State>
+      <Zipcode>06455</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>845.00</CalculatedAmount>
+      <AmountDue>845.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>8607049446</BestPhone>
+      <SecondPhone />
+      <Needs>My daughter Serra is officially Gluten Free, she has Celiac Disease. She will be doing the meal plan, so my hope is that ingredient lists can be checked by me upon request. We will be bringing some of our own food to supplement.</Needs>
+      <GroupName>Neville</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1070</RegId>
+      <FirstName>Lorelei</FirstName>
+      <LastName>Greenwood-Jones</LastName>
+      <RegDate>2016-03-01T09:20:17Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>106 Western Ave</Address>
+      <City>Auburn</City>
+      <State>ME</State>
+      <Zipcode>04210</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>395.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>2075775946</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Reindeer</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1071</RegId>
+      <FirstName>Travis</FirstName>
+      <LastName>Jones</LastName>
+      <RegDate>2016-03-01T09:21:37Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>106 Western Ave</Address>
+      <City>Auburn</City>
+      <State>ME</State>
+      <Zipcode>04210</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>350.00</CalculatedAmount>
+      <AmountDue>350.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>2075775946</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Reindeer</GroupName>
+      <EarlyBird>false</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1072</RegId>
+      <FirstName>Molly</FirstName>
+      <LastName>Farison</LastName>
+      <RegDate>2016-03-01T15:58:56Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>29 Lee Ter</Address>
+      <City>Arlington</City>
+      <State>MA</State>
+      <Zipcode>02474</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>395.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>7074811693</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Blueberry</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1073</RegId>
+      <FirstName>Elizabeth Hollinger</FirstName>
+      <LastName>Pagos</LastName>
+      <RegDate>2016-03-01T18:00:04Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>Heated Space($60)</Housing>
+      <Address>15 Carlton Street</Address>
+      <City>Salem</City>
+      <State>MA</State>
+      <Zipcode>01970</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>510.00</CalculatedAmount>
+      <AmountDue>510.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>978-397-5359</BestPhone>
+      <SecondPhone />
+      <Needs>n/a</Needs>
+      <GroupName />
+      <EarlyBird>false</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1074</RegId>
+      <FirstName>Alexander</FirstName>
+      <LastName>Bryzek-Baker</LastName>
+      <RegDate>2016-03-01T19:17:29Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>77 N East St</Address>
+      <City>Amherst</City>
+      <State>MA</State>
+      <Zipcode>01002</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>500.00</CalculatedAmount>
+      <AmountDue>500.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>(339) 927-6447</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1075</RegId>
+      <FirstName>Kathryn</FirstName>
+      <LastName>Thomas</LastName>
+      <RegDate>2016-03-01T19:35:37Z</RegDate>
+      <RegOptionId>3</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>77 North East Street</Address>
+      <City>Amherst</City>
+      <State>MA</State>
+      <Zipcode>01002</Zipcode>
+      <Country />
+      <Vendor>false</Vendor>
+      <CalculatedAmount>502.00</CalculatedAmount>
+      <AmountDue>502.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>508-315-9806</BestPhone>
+      <SecondPhone />
+      <Needs>Please see other people in party note, thanks</Needs>
+      <GroupName />
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>false</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1076</RegId>
+      <FirstName>Katherine</FirstName>
+      <LastName>McComis</LastName>
+      <RegDate>2016-03-01T21:56:59Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>14 Federal Street</Address>
+      <City>Easthampton</City>
+      <State>MA</State>
+      <Zipcode>01027</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>415.00</CalculatedAmount>
+      <AmountDue>415.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>978-994-2308</BestPhone>
+      <SecondPhone />
+      <Needs>My daughter Chloe has multiple medical conditions and special needs. She will need access to a bathroom to do a cone enema bowel program for one hour every other day. Last year we used the bathroom in healer's hall. She fatigues quickly, so camping in a more central location was also helpful. 
+
+Chloe does NOT need a meal plan, but for some reason the website is insisting it's clicked even though I didn't click it. We both have multiple food allergies and will be bringing our own food.</Needs>
+      <GroupName />
+      <EarlyBird>false</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1077</RegId>
+      <FirstName>Amos</FirstName>
+      <LastName>Meeks</LastName>
+      <RegDate>2016-03-01T21:59:14Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>29 Lee Ter.</Address>
+      <City>Arlington</City>
+      <State>MA</State>
+      <Zipcode>02474</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>395.00</CalculatedAmount>
+      <AmountDue>395.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>3397070130</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName>Blueberry</GroupName>
+      <EarlyBird>true</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1078</RegId>
+      <FirstName>Evvie</FirstName>
+      <LastName>Marin</LastName>
+      <RegDate>2016-03-01T22:44:33Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>My Tent</Housing>
+      <Address>17 South Street</Address>
+      <City>Leominster</City>
+      <State>MA</State>
+      <Zipcode>01453</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>265.00</CalculatedAmount>
+      <AmountDue>265.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>978-994-2307</BestPhone>
+      <SecondPhone />
+      <Needs>I have multiple food allergies, including Celiac disease, so I would bring my own food. I'd like to tent with or near my sister, Katie McComis, and niece, Chloe McComis, depending on how many people end up in their party.</Needs>
+      <GroupName />
+      <EarlyBird>false</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1079</RegId>
+      <FirstName>Gail</FirstName>
+      <LastName>Talbot-Olson</LastName>
+      <RegDate>2016-03-02T15:57:18Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>34 East Hill Rd</Address>
+      <City>Monson</City>
+      <State>MA</State>
+      <Zipcode>01057</Zipcode>
+      <Country>United States</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>275.00</CalculatedAmount>
+      <AmountDue>275.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>4138939258</BestPhone>
+      <SecondPhone />
+      <Needs>More people are going to be joining the group in the future I'm sure.  Could you please house us in Frontier?  Thank you!!:)</Needs>
+      <GroupName>not sure</GroupName>
+      <EarlyBird>false</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+    <Registration>
+      <RegId>1080</RegId>
+      <FirstName>Kimberly</FirstName>
+      <LastName>Ramsey-Winkler</LastName>
+      <RegDate>2016-03-02T16:08:07Z</RegDate>
+      <RegOptionId>1</RegOptionId>
+      <Housing>a Cabin</Housing>
+      <Address>53 Walden St. Apt. 1</Address>
+      <City>Winthrop</City>
+      <State>MA</State>
+      <Zipcode>02152</Zipcode>
+      <Country>USA</Country>
+      <Vendor>false</Vendor>
+      <CalculatedAmount>440.00</CalculatedAmount>
+      <AmountDue>440.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <BestPhone>617-455-2657</BestPhone>
+      <SecondPhone />
+      <Needs />
+      <GroupName />
+      <EarlyBird>false</EarlyBird>
+      <NoisePreference>true</NoisePreference>
+      <HousingGender>true</HousingGender>
+    </Registration>
+  </regData>
+  <personData>
+    <Person>
+      <PersonID>1000</PersonID>
+      <regID>1000</regID>
+      <idx>0</idx>
+      <FirstName>Daniel </FirstName>
+      <LastName>Stratton</LastName>
+      <akaName>Dan</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Lake</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1001</PersonID>
+      <regID>1001</regID>
+      <idx>0</idx>
+      <FirstName>Nicole</FirstName>
+      <LastName>Kilburg</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1002</PersonID>
+      <regID>1002</regID>
+      <idx>0</idx>
+      <FirstName>LORNA</FirstName>
+      <LastName>TIBBETTS</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1003</PersonID>
+      <regID>1003</regID>
+      <idx>0</idx>
+      <FirstName>Donovan</FirstName>
+      <LastName>Arthen</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Green Ones</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Heart</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1004</PersonID>
+      <regID>1004</regID>
+      <idx>0</idx>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1005</PersonID>
+      <regID>1005</regID>
+      <idx>0</idx>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1006</PersonID>
+      <regID>1006</regID>
+      <idx>0</idx>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1007</PersonID>
+      <regID>1007</regID>
+      <idx>0</idx>
+      <FirstName>Meesha</FirstName>
+      <LastName>Crowther</LastName>
+      <akaName>Meesh</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Fire</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1008</PersonID>
+      <regID>1008</regID>
+      <idx>0</idx>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <akaName>Shelly</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1009</PersonID>
+      <regID>1009</regID>
+      <idx>0</idx>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <akaName>Shelly</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1010</PersonID>
+      <regID>1010</regID>
+      <idx>0</idx>
+      <FirstName>Shelly</FirstName>
+      <LastName>Wilson</LastName>
+      <akaName>Shelly</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1011</PersonID>
+      <regID>1010</regID>
+      <idx>1</idx>
+      <FirstName>Kaia</FirstName>
+      <LastName>Wilson</LastName>
+      <akaName />
+      <member>false</member>
+      <gender>Female</gender>
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>2</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1012</PersonID>
+      <regID>1011</regID>
+      <idx>0</idx>
+      <FirstName>Stephen</FirstName>
+      <LastName>Morley</LastName>
+      <akaName>Stephen</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Stone</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Green Ones</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Fire</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1013</PersonID>
+      <regID>1012</regID>
+      <idx>0</idx>
+      <FirstName>Anna </FirstName>
+      <LastName>Meltser</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Stone</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Fire</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Heart</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1014</PersonID>
+      <regID>1013</regID>
+      <idx>0</idx>
+      <FirstName>Tracy</FirstName>
+      <LastName>Wharton</LastName>
+      <akaName>Tracy</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Heart</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1015</PersonID>
+      <regID>1014</regID>
+      <idx>0</idx>
+      <FirstName>Rev</FirstName>
+      <LastName>DiCerto</LastName>
+      <akaName>Ulf</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1016</PersonID>
+      <regID>1015</regID>
+      <idx>0</idx>
+      <FirstName>Natalie</FirstName>
+      <LastName>Johnsen</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1017</PersonID>
+      <regID>1016</regID>
+      <idx>0</idx>
+      <FirstName>Ann</FirstName>
+      <LastName>Schmitt</LastName>
+      <akaName>Ann</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1018</PersonID>
+      <regID>1017</regID>
+      <idx>0</idx>
+      <FirstName>Edmund</FirstName>
+      <LastName>Davis-Quinn</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1019</PersonID>
+      <regID>1018</regID>
+      <idx>0</idx>
+      <FirstName>Sharon</FirstName>
+      <LastName>Gadonniex</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1020</PersonID>
+      <regID>1019</regID>
+      <idx>0</idx>
+      <FirstName>Whispering</FirstName>
+      <LastName>Deer</LastName>
+      <akaName>Whispering Deer</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1021</PersonID>
+      <regID>1020</regID>
+      <idx>0</idx>
+      <FirstName>Shara</FirstName>
+      <LastName>Osgood</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1022</PersonID>
+      <regID>1021</regID>
+      <idx>0</idx>
+      <FirstName>Helena</FirstName>
+      <LastName>Hall</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1023</PersonID>
+      <regID>1022</regID>
+      <idx>0</idx>
+      <FirstName>June</FirstName>
+      <LastName>Schreiber</LastName>
+      <akaName>Junie Moon</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1024</PersonID>
+      <regID>1023</regID>
+      <idx>0</idx>
+      <FirstName>Will</FirstName>
+      <LastName>Rowan</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Green Ones</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Stone</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1025</PersonID>
+      <regID>1024</regID>
+      <idx>0</idx>
+      <FirstName>Lynn</FirstName>
+      <LastName>Rowan</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Lake</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1026</PersonID>
+      <regID>1025</regID>
+      <idx>0</idx>
+      <FirstName>Jocelyn</FirstName>
+      <LastName>VanBokkelen</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1027</PersonID>
+      <regID>1026</regID>
+      <idx>0</idx>
+      <FirstName>Kane</FirstName>
+      <LastName>Two Feathers</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Lake</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Heart</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1028</PersonID>
+      <regID>1027</regID>
+      <idx>0</idx>
+      <FirstName>Brianna</FirstName>
+      <LastName>Walsh</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Green Ones</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1029</PersonID>
+      <regID>1028</regID>
+      <idx>0</idx>
+      <FirstName>Alan</FirstName>
+      <LastName>Stillman</LastName>
+      <akaName>WindReader</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Green Ones</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1030</PersonID>
+      <regID>1029</regID>
+      <idx>0</idx>
+      <FirstName>Deb</FirstName>
+      <LastName>Banks McIntosh</LastName>
+      <akaName>Deb</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1031</PersonID>
+      <regID>1029</regID>
+      <idx>1</idx>
+      <FirstName>Sarah</FirstName>
+      <LastName>McIntosh</LastName>
+      <akaName />
+      <member>false</member>
+      <gender>Female</gender>
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>11</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1032</PersonID>
+      <regID>1030</regID>
+      <idx>0</idx>
+      <FirstName>Joy</FirstName>
+      <LastName>Auciello</LastName>
+      <akaName>Joy</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1033</PersonID>
+      <regID>1031</regID>
+      <idx>0</idx>
+      <FirstName>Anne</FirstName>
+      <LastName>Banks</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>true</substance>
+      <latenight>false</latenight>
+      <Clan0>Green Ones</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Lake</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1034</PersonID>
+      <regID>1032</regID>
+      <idx>0</idx>
+      <FirstName>Sophia </FirstName>
+      <LastName>Gracia</LastName>
+      <akaName>Sophia</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1035</PersonID>
+      <regID>1033</regID>
+      <idx>0</idx>
+      <FirstName>Alison</FirstName>
+      <LastName>Mee</LastName>
+      <akaName>Alison</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1036</PersonID>
+      <regID>1033</regID>
+      <idx>1</idx>
+      <FirstName>Maxwell </FirstName>
+      <LastName>Freiler</LastName>
+      <akaName />
+      <member>false</member>
+      <gender>Male</gender>
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>14</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1037</PersonID>
+      <regID>1034</regID>
+      <idx>0</idx>
+      <FirstName>John</FirstName>
+      <LastName>Freiler</LastName>
+      <akaName>John</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1038</PersonID>
+      <regID>1035</regID>
+      <idx>0</idx>
+      <FirstName>Adria</FirstName>
+      <LastName>Martinez</LastName>
+      <akaName>80</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>true</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1039</PersonID>
+      <regID>1035</regID>
+      <idx>1</idx>
+      <FirstName>Aurora</FirstName>
+      <LastName>Martinez</LastName>
+      <akaName />
+      <member>false</member>
+      <gender>Female</gender>
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>6</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1040</PersonID>
+      <regID>1036</regID>
+      <idx>0</idx>
+      <FirstName>Jeffrey</FirstName>
+      <LastName>Martinez</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>true</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1041</PersonID>
+      <regID>1037</regID>
+      <idx>0</idx>
+      <FirstName>Trevor</FirstName>
+      <LastName>Wentworth</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1042</PersonID>
+      <regID>1038</regID>
+      <idx>0</idx>
+      <FirstName>Adam</FirstName>
+      <LastName>Katrick</LastName>
+      <akaName>Wolfhame</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Lake</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Stone</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1043</PersonID>
+      <regID>1039</regID>
+      <idx>0</idx>
+      <FirstName>Holly</FirstName>
+      <LastName>Smith-Young</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Inspiration</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Green Ones</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1044</PersonID>
+      <regID>1040</regID>
+      <idx>0</idx>
+      <FirstName>Moira</FirstName>
+      <LastName>Ashleigh</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Lake</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Green Ones</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1045</PersonID>
+      <regID>1041</regID>
+      <idx>0</idx>
+      <FirstName>Duncan</FirstName>
+      <LastName>Eagleson</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1046</PersonID>
+      <regID>1042</regID>
+      <idx>0</idx>
+      <FirstName>John</FirstName>
+      <LastName>Linfield</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Green Ones</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Heart</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1047</PersonID>
+      <regID>1042</regID>
+      <idx>1</idx>
+      <FirstName>Megan</FirstName>
+      <LastName>Linfield</LastName>
+      <akaName />
+      <member>false</member>
+      <gender>Female</gender>
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>17</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1048</PersonID>
+      <regID>1042</regID>
+      <idx>2</idx>
+      <FirstName>Morgan</FirstName>
+      <LastName>Linfield</LastName>
+      <akaName />
+      <member>false</member>
+      <gender>Female</gender>
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>15</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1049</PersonID>
+      <regID>1043</regID>
+      <idx>0</idx>
+      <FirstName>Leslie</FirstName>
+      <LastName>Linfield</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1050</PersonID>
+      <regID>1044</regID>
+      <idx>0</idx>
+      <FirstName>Eric</FirstName>
+      <LastName>Leventhal Arthen</LastName>
+      <akaName>Eric</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Green Ones</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Lake</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Stone</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1051</PersonID>
+      <regID>1045</regID>
+      <idx>0</idx>
+      <FirstName>Jodi</FirstName>
+      <LastName>Clark</LastName>
+      <akaName>Frithbjorn</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1052</PersonID>
+      <regID>1046</regID>
+      <idx>0</idx>
+      <FirstName>Jane</FirstName>
+      <LastName>Sibley</LastName>
+      <akaName>Jane Sibley</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1053</PersonID>
+      <regID>1047</regID>
+      <idx>0</idx>
+      <FirstName>joann</FirstName>
+      <LastName>gordon</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1054</PersonID>
+      <regID>1048</regID>
+      <idx>0</idx>
+      <FirstName>Amy</FirstName>
+      <LastName>Anderson</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1055</PersonID>
+      <regID>1049</regID>
+      <idx>0</idx>
+      <FirstName>Deborah</FirstName>
+      <LastName>Gilchrist</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Inspiration</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Green Ones</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1056</PersonID>
+      <regID>1050</regID>
+      <idx>0</idx>
+      <FirstName>William</FirstName>
+      <LastName>Leslie</LastName>
+      <akaName>Basir</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1057</PersonID>
+      <regID>1051</regID>
+      <idx>0</idx>
+      <FirstName>tracey</FirstName>
+      <LastName>seier</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Stone</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1058</PersonID>
+      <regID>1051</regID>
+      <idx>1</idx>
+      <FirstName>Vivian</FirstName>
+      <LastName>Seier</LastName>
+      <akaName />
+      <member>false</member>
+      <gender>Female</gender>
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>7</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1059</PersonID>
+      <regID>1051</regID>
+      <idx>2</idx>
+      <FirstName>David</FirstName>
+      <LastName>Seier</LastName>
+      <akaName />
+      <member>false</member>
+      <gender>Male</gender>
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>5</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1060</PersonID>
+      <regID>1052</regID>
+      <idx>0</idx>
+      <FirstName>Kenneth</FirstName>
+      <LastName>seier</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Stone</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Lake</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1061</PersonID>
+      <regID>1053</regID>
+      <idx>0</idx>
+      <FirstName>Minta</FirstName>
+      <LastName>Elsman</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1062</PersonID>
+      <regID>1054</regID>
+      <idx>0</idx>
+      <FirstName>Stanley</FirstName>
+      <LastName>Genthner</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>0</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Lake</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Green Ones</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1063</PersonID>
+      <regID>1055</regID>
+      <idx>0</idx>
+      <FirstName>Sara</FirstName>
+      <LastName>Moore</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1064</PersonID>
+      <regID>1056</regID>
+      <idx>0</idx>
+      <FirstName>Test</FirstName>
+      <LastName>Morley</LastName>
+      <akaName>Test</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1065</PersonID>
+      <regID>1057</regID>
+      <idx>0</idx>
+      <FirstName>Test</FirstName>
+      <LastName>Morley</LastName>
+      <akaName>Test</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1066</PersonID>
+      <regID>1058</regID>
+      <idx>0</idx>
+      <FirstName>Test</FirstName>
+      <LastName>Morley</LastName>
+      <akaName>Test</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1067</PersonID>
+      <regID>1059</regID>
+      <idx>0</idx>
+      <FirstName>Sean</FirstName>
+      <LastName>Moore</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Fire (includes prep at ritual fire circle; wood cutting)</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Heart (includes Registration prep; Center Fire and Dining Hall lighting)</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake (includes merchant area prep; workshop spaces)</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1068</PersonID>
+      <regID>1061</regID>
+      <idx>0</idx>
+      <FirstName>Mark</FirstName>
+      <LastName>Bonczek</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Green Ones (includes tent set up; Gates)</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Inspiration (includes workshop spaces; Sara Cooper set up)</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Stone (includes Torches; Healers Hall)</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1069</PersonID>
+      <regID>1060</regID>
+      <idx>0</idx>
+      <FirstName>Tiffany</FirstName>
+      <LastName>Davis</LastName>
+      <akaName>Tiffany</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1070</PersonID>
+      <regID>1062</regID>
+      <idx>0</idx>
+      <FirstName>Ashley</FirstName>
+      <LastName>Kendall</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart (includes Registration prep; Center Fire and Dining Hall lighting)</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Inspiration (includes workshop spaces; Sara Cooper set up)</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake (includes merchant area prep; workshop spaces)</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1071</PersonID>
+      <regID>1063</regID>
+      <idx>0</idx>
+      <FirstName>Sandra</FirstName>
+      <LastName>Rae</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1072</PersonID>
+      <regID>1063</regID>
+      <idx>1</idx>
+      <FirstName />
+      <LastName />
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>16</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1073</PersonID>
+      <regID>1064</regID>
+      <idx>0</idx>
+      <FirstName>Steven</FirstName>
+      <LastName>Cohen</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1074</PersonID>
+      <regID>1065</regID>
+      <idx>0</idx>
+      <FirstName>Timothy</FirstName>
+      <LastName>Lyons</LastName>
+      <akaName>Tim</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Green Ones (includes tent set up; Gates)</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Inspiration (includes workshop spaces; Sara Cooper set up)</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake (includes merchant area prep; workshop spaces)</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1075</PersonID>
+      <regID>1065</regID>
+      <idx>1</idx>
+      <FirstName />
+      <LastName />
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>13</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1076</PersonID>
+      <regID>1065</regID>
+      <idx>2</idx>
+      <FirstName />
+      <LastName />
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>11</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1077</PersonID>
+      <regID>1066</regID>
+      <idx>0</idx>
+      <FirstName>Tatiana</FirstName>
+      <LastName>Lyons</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Stone (includes Torches; Healers Hall)</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Fire (includes prep at ritual fire circle; wood cutting)</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake (includes merchant area prep; workshop spaces)</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1078</PersonID>
+      <regID>1067</regID>
+      <idx>0</idx>
+      <FirstName>Aaron</FirstName>
+      <LastName>Morse</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1079</PersonID>
+      <regID>1068</regID>
+      <idx>0</idx>
+      <FirstName>Theresa</FirstName>
+      <LastName>Matulonis-Archer</LastName>
+      <akaName>Tess</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1080</PersonID>
+      <regID>1069</regID>
+      <idx>0</idx>
+      <FirstName>Jason</FirstName>
+      <LastName>LeDuc</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1081</PersonID>
+      <regID>1069</regID>
+      <idx>1</idx>
+      <FirstName />
+      <LastName />
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>9</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1082</PersonID>
+      <regID>1069</regID>
+      <idx>2</idx>
+      <FirstName />
+      <LastName />
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>7</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1083</PersonID>
+      <regID>1069</regID>
+      <idx>3</idx>
+      <FirstName />
+      <LastName />
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>5</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1084</PersonID>
+      <regID>1070</regID>
+      <idx>0</idx>
+      <FirstName>Lorelei</FirstName>
+      <LastName>Greenwood-Jones</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1085</PersonID>
+      <regID>1071</regID>
+      <idx>0</idx>
+      <FirstName>Travis</FirstName>
+      <LastName>Jones</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>2</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1086</PersonID>
+      <regID>1072</regID>
+      <idx>0</idx>
+      <FirstName>Molly</FirstName>
+      <LastName>Farison</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1087</PersonID>
+      <regID>1073</regID>
+      <idx>0</idx>
+      <FirstName>Elizabeth Hollinger</FirstName>
+      <LastName>Pagos</LastName>
+      <akaName>Hollin</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>true</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1088</PersonID>
+      <regID>1074</regID>
+      <idx>0</idx>
+      <FirstName>Alexander</FirstName>
+      <LastName>Bryzek-Baker</LastName>
+      <akaName>Sasha</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart (includes Registration prep; Center Fire and Dining Hall lighting)</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Fire (includes prep at ritual fire circle; wood cutting)</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Lake (includes merchant area prep; workshop spaces)</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1089</PersonID>
+      <regID>1075</regID>
+      <idx>0</idx>
+      <FirstName>Kathryn</FirstName>
+      <LastName>Thomas</LastName>
+      <akaName>Kate</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0>Heart (includes Registration prep; Center Fire and Dining Hall lighting)</Clan0>
+      <Clan_Msg0 />
+      <Clan1>Lake (includes merchant area prep; workshop spaces)</Clan1>
+      <Clan_Msg1 />
+      <Clan2>Inspiration (includes workshop spaces; Sara Cooper set up)</Clan2>
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1090</PersonID>
+      <regID>1076</regID>
+      <idx>0</idx>
+      <FirstName>Katherine</FirstName>
+      <LastName>McComis</LastName>
+      <akaName>Katie</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1091</PersonID>
+      <regID>1076</regID>
+      <idx>1</idx>
+      <FirstName />
+      <LastName />
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>true</veggie>
+      <age>7</age>
+      <waiverSigned>false</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift />
+      <ride_need />
+      <ride_provide />
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1092</PersonID>
+      <regID>1077</regID>
+      <idx>0</idx>
+      <FirstName>Amos</FirstName>
+      <LastName>Meeks</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>true</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1093</PersonID>
+      <regID>1078</regID>
+      <idx>0</idx>
+      <FirstName>Evvie</FirstName>
+      <LastName>Marin</LastName>
+      <akaName />
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1094</PersonID>
+      <regID>1079</regID>
+      <idx>0</idx>
+      <FirstName>Gail</FirstName>
+      <LastName>Talbot-Olson</LastName>
+      <akaName>Gail</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>false</firstros>
+      <MealPlan>0</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+    <Person>
+      <PersonID>1095</PersonID>
+      <regID>1080</regID>
+      <idx>0</idx>
+      <FirstName>Kimberly</FirstName>
+      <LastName>Ramsey-Winkler</LastName>
+      <akaName>Kim</akaName>
+      <member>false</member>
+      <gender />
+      <firstros>true</firstros>
+      <MealPlan>1</MealPlan>
+      <veggie>false</veggie>
+      <age>-1</age>
+      <waiverSigned>true</waiverSigned>
+      <birthDate>0001-01-01T00:00:00</birthDate>
+      <workshift>0</workshift>
+      <ride_need>0</ride_need>
+      <ride_provide>0</ride_provide>
+      <ride_info />
+      <family>false</family>
+      <quiet>false</quiet>
+      <allfemale>false</allfemale>
+      <allmale>false</allmale>
+      <substance>false</substance>
+      <latenight>false</latenight>
+      <Clan0 />
+      <Clan_Msg0 />
+      <Clan1 />
+      <Clan_Msg1 />
+      <Clan2 />
+      <Clan_Msg2 />
+      <Clan3 />
+      <Clan_Msg3 />
+      <howmanytimes />
+      <lasttime />
+      <howlong />
+      <training />
+      <fridayBuffet>false</fridayBuffet>
+      <saturdayLunch>false</saturdayLunch>
+      <sundayBrunch>false</sundayBrunch>
+      <masque>0</masque>
+      <skipFeast>false</skipFeast>
+      <grove />
+    </Person>
+  </personData>
+  <merchantData>
+    <Merchant>
+      <merchantID>1000</merchantID>
+      <regID>1020</regID>
+      <businessName>Body Art By Shara / Funky Fairy</businessName>
+      <businessAddress>178 Pearl Hill Rd., Fitchburg, MA 01420</businessAddress>
+      <businessPhone>6074274710</businessPhone>
+      <businessEmail>Shara@BodyArtByShara.com</businessEmail>
+      <description>10'x10'</description>
+      <merchandise>Body Art (body paint, henna, temporary tattoos)
+funky jewelry</merchandise>
+      <previous>for the past 20+ years.</previous>
+      <sleepInMerchants>false</sleepInMerchants>
+      <donateDetail>Body Art redeemable certificate (good for 1 year) for henna or paint. ($40 value or more if more $ are paid).</donateDetail>
+      <barterFlag>true</barterFlag>
+      <cashFlag>true</cashFlag>
+      <checkFlag>true</checkFlag>
+      <visamcFlag>true</visamcFlag>
+      <discoverFlag>false</discoverFlag>
+      <amexFlag>false</amexFlag>
+    </Merchant>
+    <Merchant>
+      <merchantID>1001</merchantID>
+      <regID>1046</regID>
+      <businessName>Auntie Arwen's Spices</businessName>
+      <businessAddress>POB 123, Haddam, CT 06438</businessAddress>
+      <businessPhone>(860)345-2061</businessPhone>
+      <businessEmail>jrsibley@snet.net</businessEmail>
+      <description>10 x 20; would like my original spot near the lodge; if that is unavailable due to construction, the same spot I had last year.</description>
+      <merchandise>spice/seasoning blends, fudge (if any left), my books, some essential oils, baking extracts, catnip mice, chocolate covered coffee beans, etc.</merchandise>
+      <previous>for many, many years</previous>
+      <sleepInMerchants>false</sleepInMerchants>
+      <donateDetail>$20 gift certificate to my shop (that way, the winner can shop for what he/she wants)</donateDetail>
+      <barterFlag>true</barterFlag>
+      <cashFlag>true</cashFlag>
+      <checkFlag>true</checkFlag>
+      <visamcFlag>true</visamcFlag>
+      <discoverFlag>true</discoverFlag>
+      <amexFlag>true</amexFlag>
+    </Merchant>
+    <Merchant>
+      <merchantID>1002</merchantID>
+      <regID>1050</regID>
+      <businessName>William Leslie</businessName>
+      <businessAddress>PO Box 1194, Albany, NY 12201</businessAddress>
+      <businessPhone>5185050184</businessPhone>
+      <businessEmail>billleslie716@aol.com</businessEmail>
+      <description>10'x10' tent, with massage table and table within.</description>
+      <merchandise>Services - sound therapy / energy work using singing bowls, tuning forks, and other instruments.</merchandise>
+      <previous>First time vending.</previous>
+      <sleepInMerchants>false</sleepInMerchants>
+      <donateDetail />
+      <barterFlag>true</barterFlag>
+      <cashFlag>true</cashFlag>
+      <checkFlag>false</checkFlag>
+      <visamcFlag>false</visamcFlag>
+      <discoverFlag>false</discoverFlag>
+      <amexFlag>false</amexFlag>
+    </Merchant>
+  </merchantData>
+</RegDatabase>

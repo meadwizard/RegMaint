@@ -1,0 +1,73 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using RegData;
+
+namespace ExportDbToTest
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			string outputFile = @"x:\\Earthspirit\register\fieldList.csv";
+			try
+			{
+				using (TextWriter wr = new StreamWriter(outputFile))
+				{
+					Export(wr);
+					wr.WriteLine("# Output Completed {0:yyyy-MM-dd HH:mm:ss}", DateTime.Now);
+				}
+			}
+			catch (Exception exc)
+			{
+				Console.WriteLine("Exception:" + exc.Message);
+			}
+		}
+
+		static void Export(TextWriter stream)
+		{
+			RegDatabase regDB = DbAccess.LoadDatabase();
+			stream.WriteLine("RegId,firstName,lastName,akaName,address,city,state,zipcode,country,earlyBird,regOption,mealPlanOption,fname1,lname1,age1,gender1,mealPlan1,fname2,lname2,age2,gender2,mealPlan2,fname3,lname3,age3,gender3,mealPlan3,fname4,lname4,age4,gender4,mealPlan4,housing,cost,vendor,vendorBusiness,vendorAddress,vendorPhone,vendorEmail,vendorMerchandise,donateFlag,donateDetail,vendorSetup,vendorHistory,vendorSleeping,maSalesTaxNbr,barterFlag,cashFlag,checkFlag,visamcFlag,discoverFlag,amexFlag");
+			foreach( Registration reg in regDB.regData )
+			{
+				List<Person> personList = regDB.personData.Where( x => x.regID == reg.RegId).ToList();
+				if (personList.Count == 0)
+				{
+					stream.WriteLine("#There are no person records associated with registration #{0}", reg.RegId);
+					continue;
+				}
+				Person primary = personList[0];
+				stream.Write("{0}", reg.RegId);
+				stream.Write(",{0}", reg.FirstName);
+				stream.Write(",{0}", reg.LastName);
+				stream.Write(",{0}", primary.akaName);
+				stream.Write(",{0}", reg.Address);
+				stream.Write(",{0}", reg.City);
+				stream.Write(",{0}", reg.State);
+				stream.Write(",{0}", reg.Zipcode);
+				stream.Write(",{0}", reg.Country);
+				stream.Write(",{0}", reg.EarlyBird ? "on" : "off");
+				stream.Write(",{0}", reg.RegOptionId);
+				stream.Write(",{0}", primary.MealPlan);
+				for (int i = 1; i < 5; ++i)
+				{
+					if (personList.Count > i)
+					{
+						stream.Write(",{0},{1},{2},{3},{4}", personList[i].FirstName, personList[i].LastName, personList[i].age, personList[i].gender, personList[i].MealPlan==0 ? "on" : "off");
+					}
+					else
+					{
+						stream.Write(",,,,,");
+					}
+				}
+				stream.Write(",{0}", reg.Housing);
+				stream.Write(",{0}", reg.AmountDue);
+				stream.WriteLine(",off");
+
+			}
+		}
+	}
+}

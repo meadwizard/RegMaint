@@ -1,0 +1,6 @@
+X:\RegMaint\RegData\bin\Debug\RegData.dll
+X:\RegMaint\RegData\bin\Debug\RegData.pdb
+X:\RegMaint\RegData\bin\Debug\MySql.Data.dll
+X:\RegMaint\RegData\obj\Debug\RegData.dll
+X:\RegMaint\RegData\obj\Debug\RegData.pdb
+X:\RegMaint\RegData\obj\Debug\RegData.csprojResolveAssemblyReference.cache

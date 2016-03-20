@@ -1,0 +1,142 @@
+﻿<UserControl x:Class="RegMaint.ucRegData"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"  
+             xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"  
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             Padding="20,20,20,20"
+             Background="Silver"
+             d:DesignHeight="500" d:DesignWidth="800">
+    <UserControl.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="Red"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="Background" Value="Green"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Yellow"/>
+            <Setter Property="Height" Value="27"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+    </UserControl.Resources>
+        
+    <Grid>
+        <dxlc:LayoutControl Orientation="Vertical" >
+
+            <dxlc:LayoutGroup  ItemSpace="40">
+
+                <dxlc:LayoutGroup Orientation="Vertical" View="GroupBox" Header="{Binding FullName}" >
+
+                    <dxlc:LayoutItem Label="RegId">
+                        <TextBox Text="{Binding RegId, Mode=OneWay}" IsReadOnly="True" Width="50"/>
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Name">
+                        <dxlc:LayoutGroup>
+                            <TextBox Text="{Binding FirstName, Mode=OneWay}" />
+                            <TextBox Text="{Binding LastName, Mode=OneWay}" />
+                        </dxlc:LayoutGroup>
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Preferred Name">
+                        <TextBox Text="{Binding PreferredName, Mode=OneWay}" />
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Address">
+                        <TextBox Text="{Binding AddressBlock, Mode=OneWay}" />
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Reg Date">
+                        <TextBox Text="{Binding RegDate, Mode=OneWay}" />
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Option">
+                        <dxe:ComboBoxEdit Name="cbeRegOption" 
+                                          IsReadOnly="True"
+                                          SelectedIndex="{Binding RegOptionId, Mode=OneWay}" 
+                                          ValueMember="RegOptionId" 
+                                          DisplayMember="Description" />
+                    </dxlc:LayoutItem>
+                    
+                    <dxlc:LayoutItem Label="Special Needs">
+                        <TextBox Text="{Binding Needs, Mode=OneWay}" />
+                    </dxlc:LayoutItem>
+                    
+                    <dxlc:LayoutItem Label="Group Name">
+                        <TextBox Text="{Binding GroupName, Mode=OneWay}" />
+                    </dxlc:LayoutItem>
+
+                    <dxlc:LayoutGroup Orientation="Horizontal">
+                        <dxlc:LayoutItem Label="Earlybird">
+                            <CheckBox IsChecked="{Binding Earlybird, Mode=OneWay}"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutItem Label="Quiet">
+                            <CheckBox IsChecked="{Binding NoisePreference, Mode=OneWay}"/>
+                        </dxlc:LayoutItem>
+                        <dxlc:LayoutItem Label="Gender">
+                            <CheckBox IsChecked="{Binding HousingGender, Mode=OneWay}"/>
+                        </dxlc:LayoutItem>
+                    </dxlc:LayoutGroup>
+
+                </dxlc:LayoutGroup>
+
+                <dxlc:LayoutGroup Orientation="Vertical" View="GroupBox" Header="Payment Information" >
+                    <dxlc:LayoutItem Label="Total Cost">
+                        <TextBox Text="{Binding CalculatedAmount, Mode=OneWay}" Width="50"/>
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Amount Paid">
+                        <TextBox Text="{Binding AmountPaid, Mode=OneWay}" Width="50"/>
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Amount Due">
+                        <TextBox Text="{Binding AmountDue, Mode=OneWay}" Width="50"/>
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Payment Details" LabelPosition="Top">
+                        <TextBlock Text="Payment Information" Width="200" Height="50"/>
+                    </dxlc:LayoutItem>
+                    <dxlc:LayoutItem Label="Something">
+                    </dxlc:LayoutItem>
+                </dxlc:LayoutGroup>
+                
+                <dxlc:LayoutGroup Orientation="Vertical">
+                    
+                <dxlc:LayoutGroup Orientation="Vertical" View="GroupBox" Header="Registered People">
+                        <DataGrid x:Name="dgPeople" HorizontalAlignment="Left" VerticalAlignment="Top" AutoGenerateColumns="False">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="First" Binding="{Binding FirstName}"/>
+                                <DataGridTextColumn Header="Last" Binding="{Binding LastName}"/>
+                                <DataGridTextColumn Header="MealPlan" Binding="{Binding MealPlan}"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </dxlc:LayoutGroup>
+                
+                <dxlc:LayoutGroup Orientation="Vertical" View="GroupBox" Header="Notes">
+                    <TextBlock Text="2015/12/15 08:83 [Shara] Someone please look at this price." Width="200" Height="50"/>
+                        <Button Name="btnAddNote" Content="Add Note"/>
+                    </dxlc:LayoutGroup>
+
+                </dxlc:LayoutGroup>
+
+            </dxlc:LayoutGroup>
+
+        </dxlc:LayoutControl>
+
+
+        <!--
+        <Grid.RowDefinitions>
+            <RowDefinition Height="27"/>
+            <RowDefinition Height="27"/>
+            <RowDefinition Height="27"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Label Content="First" Grid.Row="0" Grid.Column="0"/>
+        <TextBox Text="{Binding FirstName}" Grid.Row="0" Grid.Column="1"/>
+        
+        <Label Content="Last" Grid.Row="1" Grid.Column="0"/>
+        <TextBox Text="{Binding LastName}" Grid.Row="1" Grid.Column="1"/>
+        -->
+
+    </Grid>
+</UserControl>

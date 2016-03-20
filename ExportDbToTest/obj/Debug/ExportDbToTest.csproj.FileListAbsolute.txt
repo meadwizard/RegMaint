@@ -1,0 +1,9 @@
+X:\RegMaint\ExportDbToTest\bin\Debug\ExportDbToTest.exe.config
+X:\RegMaint\ExportDbToTest\bin\Debug\ExportDbToTest.exe
+X:\RegMaint\ExportDbToTest\bin\Debug\ExportDbToTest.pdb
+X:\RegMaint\ExportDbToTest\bin\Debug\RegData.dll
+X:\RegMaint\ExportDbToTest\bin\Debug\MySql.Data.dll
+X:\RegMaint\ExportDbToTest\bin\Debug\RegData.pdb
+X:\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.csprojResolveAssemblyReference.cache
+X:\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.exe
+X:\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.pdb

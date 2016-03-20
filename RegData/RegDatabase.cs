@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace RegData
+{
+	public class RegDatabase
+	{
+		public List<Registration> regData { get; set; }
+		public List<Person> personData { get; set; }
+		public List<Merchant> merchantData { get; set; }
+
+		public RegDatabase()
+		{
+			regData = new List<Registration>();
+			personData = new List<Person>();
+			merchantData = new List<Merchant>();
+		}
+	}
+}

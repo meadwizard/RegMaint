@@ -1,0 +1,147 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
+using RegData;
+
+namespace RegData
+{
+
+	public class DbAccess
+	{
+		//public static string ConnectionStr = "Server=enki;Uid=root;Pwd=thunder;Database=rowan_ritesregistration;";
+		//public static string ConnectionStr = "Server=enki;Uid=hhgReg;Pwd=T*X$c9;an1Kb;Database=rowan_ritesregistration;";
+		//$link = new mysqli("localhost", "hhgReg", 'T*X$c9;an1Kb', "rites");
+
+
+		public static RegDatabase LoadDatabase()
+		{
+			RegDatabase result = new RegDatabase();
+
+			MySqlConnectionStringBuilder conn_string = new MySqlConnectionStringBuilder();
+			conn_string.Server = "enki";
+			conn_string.Server = "rowantree.org";
+			conn_string.UserID = "rowan_RosReg";
+			conn_string.Password = "eBssEzAjvpCU";
+			conn_string.Database = "rowan_RitesRegistration";
+			//conn_string.SslMode = MySqlSslMode.Required;
+
+			using (MySqlConnection conn = new MySqlConnection(conn_string.ToString()))
+			{
+				conn.Open();
+				using (MySqlCommand cmd = conn.CreateCommand())
+				{
+					cmd.CommandType = System.Data.CommandType.Text;
+					cmd.CommandText = "SELECT * FROM registration";
+					using (MySqlDataReader rdr = cmd.ExecuteReader())
+					{
+						while (rdr.Read())
+						{
+							result.regData.Add(new Registration(rdr));
+						}
+					}
+				}
+				using (MySqlCommand cmd = conn.CreateCommand())
+				{
+					cmd.CommandType = System.Data.CommandType.Text;
+					cmd.CommandText = "SELECT * FROM person";
+					using (MySqlDataReader rdr = cmd.ExecuteReader())
+					{
+						while (rdr.Read())
+						{
+							result.personData.Add(new Person(rdr));
+						}
+					}
+				}
+			}
+
+			return result;
+
+		}
+
+
+		public static bool GetBoolFromRdr(MySql.Data.MySqlClient.MySqlDataReader rdr, string column)
+		{
+			try
+			{
+				int ord = rdr.GetOrdinal(column);
+				if (rdr[ord] == DBNull.Value) return false;
+				string typeName = rdr.GetDataTypeName(ord);
+				if (typeName == "TINYINT")
+				{
+					return rdr.GetInt16(ord) == 1;
+				}
+				return (bool)rdr[column];
+			}
+			catch (Exception exc)
+			{
+				return false;
+			}
+		}
+
+		public static int GetIntFromRdr(MySql.Data.MySqlClient.MySqlDataReader rdr, string column)
+		{
+			try
+			{
+				int ord = rdr.GetOrdinal(column);
+				if (rdr[ord] == DBNull.Value) return 0;
+				string typeName = rdr.GetDataTypeName(ord);
+				if (typeName == "TINYINT")
+				{
+					return rdr.GetInt16(ord);
+				}
+				return rdr.GetInt32(ord);
+			}
+			catch (Exception exc)
+			{
+				return 0;
+			}
+		}
+
+		public static string GetStringFromRdr(MySql.Data.MySqlClient.MySqlDataReader rdr, string column)
+		{
+			try
+			{
+				return rdr[column].ToString();
+			}
+			catch (Exception exc)
+			{
+				return null;
+			}
+		}
+
+		public static decimal GetDecimalFromRdr(MySql.Data.MySqlClient.MySqlDataReader rdr, string column)
+		{
+			try
+			{
+				return (decimal)rdr[column];
+			}
+			catch (Exception exc)
+			{
+				return 0;
+			}
+
+		}
+
+		public static DateTime GetDateTimeFromRdr(MySql.Data.MySqlClient.MySqlDataReader rdr, string column)
+		{
+			try
+			{
+				int ord = rdr.GetOrdinal(column);
+				//if (rdr[ord] == DBNull.Value) return DateTime.MinValue;
+				string typeName = rdr.GetDataTypeName(ord);
+				if (typeName == "DATE")
+				{
+					rdr.GetMySqlDateTime(ord).GetDateTime();
+				}
+				return (DateTime)rdr[column];
+			}
+			catch (Exception exc)
+			{
+				return DateTime.Now;
+			}
+		}
+	}
+}

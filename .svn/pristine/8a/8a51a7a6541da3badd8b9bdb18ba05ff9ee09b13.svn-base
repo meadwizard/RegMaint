@@ -1,0 +1,49 @@
+
+
+	while(<>)
+	{
+		if ( / START / )
+		{
+			$startSeen = 1;
+			$process = 1 
+		}
+		elsif (/ END /)
+		{
+			$endSeen = 1;
+			print @rows;
+			$process = 0;
+		}
+		elsif (!$process)
+		{
+			print;
+		}
+		else {
+			chomp;
+#public string Account_Type;
+			if (/public\s+(.+)\s+_(.*)\s*;/ )
+			{
+				push(@rows, "private $1 _$2;\n");
+				print "public $1 $2 { 
+\tget { return _$2; } 
+\tset 
+\t\t{ 
+\t\t\tif ( value != _$2 ) 
+\t\t\t{ 
+\t\t\t\t_$2=value; 
+\t\t\t\tNotifyPropertyChanged(\"$2\"); 
+\t\t\t} 
+\t\t}
+\t}\n";
+			}
+			else {
+				print "$_\n";
+			}
+		}
+
+	}
+
+	if ( $startSeen==0 || $endSeen==0 )
+	{
+		print STDERR "FATAL ERROR: We did not see a START and an END";
+	}
+
