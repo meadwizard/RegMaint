@@ -1,0 +1,172 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+using RegData;
+
+namespace RegMaint
+{
+	/// <summary>
+	/// Interaction logic for MainWindow.xaml
+	/// </summary>
+	public partial class MainWindow : Window
+	{
+		DataContext dataContext = new DataContext();
+
+		public MainWindow()
+		{
+			InitializeComponent();
+			this.Loaded += MainWindow_Loaded;
+
+		}
+
+
+		void MainWindow_Loaded(object sender, RoutedEventArgs e)
+		{
+			btnLoadMySql_ItemClick(null, null);
+			this.DataContext = dataContext;
+		}
+
+		Dictionary<int, DevExpress.Xpf.Core.DXTabItem> tabList = new Dictionary<int, DevExpress.Xpf.Core.DXTabItem>();
+
+		private void Row_DoubleClick(object sender, MouseButtonEventArgs e)
+		{
+			DataGridRow row = sender as DataGridRow;
+			Registration regData = row.Item as Registration;
+			OpenRegistration(regData);
+
+		}
+
+		private void OpenRegistration(Registration regData)
+		{
+			if (tabList.ContainsKey(regData.RegId))
+			{
+				tabControl.ShowTabItem(tabList[regData.RegId]);
+				tabList[regData.RegId].Focus();
+			}
+			else
+			{
+				//DevExpress.Xpf.Core.DXTabItem tab = tabControl.AddNewTabItem();
+				DevExpress.Xpf.Core.DXTabItem tab = new DevExpress.Xpf.Core.DXTabItem{ Header = string.Format("{0} {1}", regData.FirstName, regData.LastName), AllowHide = DevExpress.Utils.DefaultBoolean.True };
+				//TabItem tab = new TabItem() { Header = string.Format("{0} {1}", regData.FirstName, regData.LastName) };
+				tabControl.Items.Add(tab);
+				tab.Content = new ucRegData(regData, dataContext.regDB.personData.Where( x => x.regID == regData.RegId).ToList());
+				tabList.Add(regData.RegId, tab);
+				tabControl.SelectedItem = tab;
+			}
+		}
+
+
+		private void btnLoadLocal_ItemClick(object sender, DevExpress.Xpf.Bars.ItemClickEventArgs e)
+		{
+			dataContext.regDB = DbAccess.LoadLocal();
+			RegGridView.BestFitColumns();
+			txtDbSource.Text = "Data Loaded From Local Source";
+		}
+
+		private void btnLoadMySql_ItemClick(object sender, DevExpress.Xpf.Bars.ItemClickEventArgs e)
+		{
+			try
+			{
+				dataContext.regDB = DbAccess.LoadDatabase();
+				RegGridView.BestFitColumns();
+			}
+			catch (Exception exc)
+			{
+				MessageBox.Show("Unable to access MySql server:" + exc.Message);
+			}
+			txtDbSource.Text = "Data Loaded From MySql";
+		}
+
+		private void btnSaveLocal_ItemClick(object sender, DevExpress.Xpf.Bars.ItemClickEventArgs e)
+		{
+			DbAccess.SaveLocal();
+		}
+
+		private void RegGridView_RowDoubleClick(object sender, DevExpress.Xpf.Grid.RowDoubleClickEventArgs e)
+		{
+			if ( e.HitInfo.InRow )
+			{
+				FrameworkElement el = RegGridView.GetRowElementByRowHandle(e.HitInfo.RowHandle);
+				Registration reg = ((el.DataContext as DevExpress.Xpf.Grid.RowData).Row as Registration);
+				OpenRegistration(reg);
+			}
+		}
+
+		private void tabControl_TabHiding(object sender, DevExpress.Xpf.Core.TabControlTabHidingEventArgs e)
+		{
+
+
+		}
+
+	}
+
+	class DataContext : INotifyPropertyChanged
+	{
+		private RegDatabase _regDB;
+		public RegDatabase regDB
+		{
+			get { return _regDB; }
+			set
+			{
+				if (value != _regDB)
+				{
+					_regDB = value;
+					NotifyPropertyChanged("regDB");
+				}
+			}
+		}
+
+		public event PropertyChangedEventHandler PropertyChanged;
+
+		public void NotifyPropertyChanged(string propName)
+		{
+			if (PropertyChanged != null)
+			{
+				PropertyChanged(this, new PropertyChangedEventArgs(propName));
+			}
+		}
+
+
+		public List<RegOption> RegOptionList
+		{
+			get
+			{
+				return DbAccess.RegistrationOptionList;
+			}
+		}
+
+
+	}
+
+
+
+
+
+    public class Conv : IValueConverter {
+        public object Convert(object value, System.Type targetType, object parameter, System.Globalization.CultureInfo culture) {
+
+			if ( value is bool )
+			{
+				return ((bool)value ? new SolidColorBrush(Colors.Brown) : new SolidColorBrush(Colors.LightGray));
+			}
+            return new SolidColorBrush(Colors.White);
+        }
+
+        public object ConvertBack(object value, System.Type targetType, object parameter, System.Globalization.CultureInfo culture) {
+            throw new System.NotImplementedException();
+        }
+    }
+}

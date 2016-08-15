@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-X:\RegMaint\RegMaint\obj\Debug\
+C:\Users\Stephen\Projects\RegMaint\RegMaint\obj\Debug\
 RegMaint
 none
 false
 DEBUG;TRACE
-X:\RegMaint\RegMaint\App.xaml
-2-2146197866
+C:\Users\Stephen\Projects\RegMaint\RegMaint\App.xaml
+31198541928
 
-61911879265
-25-2062582665
-MainWindow.xaml;ucRegData.xaml;
+8879745825
+28-1198263601
+MainWindow.xaml;ucRegData.xaml;ucRegistrationGrid.xaml;
 
 False
 

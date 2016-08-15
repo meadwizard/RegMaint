@@ -7,3 +7,15 @@ X:\RegMaint\ExportDbToTest\bin\Debug\RegData.pdb
 X:\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.csprojResolveAssemblyReference.cache
 X:\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.exe
 X:\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.pdb
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\ExportDbToTest.exe.config
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\ExportDbToTest.exe
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\ExportDbToTest.pdb
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\log4net.dll
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\RegData.dll
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\MySql.Data.dll
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\RegData.pdb
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\log4net.pdb
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\bin\Debug\log4net.xml
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.exe
+C:\Users\Stephen\Projects\RegMaint\ExportDbToTest\obj\Debug\ExportDbToTest.pdb

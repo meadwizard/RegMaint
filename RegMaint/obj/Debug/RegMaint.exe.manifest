@@ -44,12 +44,22 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="DevExpress.Xpf.Docking.v15.2" version="15.2.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
       <assemblyIdentity name="DevExpress.Xpf.Grid.v15.2" version="15.2.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
       <assemblyIdentity name="DevExpress.Xpf.Grid.v15.2.Core" version="15.2.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="DevExpress.Xpf.Layout.v15.2.Core" version="15.2.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
     </dependentAssembly>
   </dependency>
   <dependency>
@@ -125,6 +135,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="log4net.dll" size="304640">
+      <assemblyIdentity name="log4net" version="1.2.15.0" publicKeyToken="669E0DDF0BB1AA2A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9HuHKCHfpqTP+6WgI2cgA5G1R2mGZ27TK1745O6B/rI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="457728">
       <assemblyIdentity name="MySql.Data" version="6.9.8.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -137,26 +159,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RegData.dll" size="30720">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RegData.dll" size="34304">
       <assemblyIdentity name="RegData" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RwiHP+PR+EhSBWa68vooNunIpols5qBtx3Z6M2d1sIs=</dsig:DigestValue>
+        <dsig:DigestValue>6bwvqwgKS//Eni0IGM8ZmSMinm6taoKoZtmNyizZaaY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RegMaint.exe" size="370624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RegMaint.exe" size="379328">
       <assemblyIdentity name="RegMaint" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rJdM+fYkVrZMkp3dpg8HgTk8+Y9rb7EuMr7rCbRYRdc=</dsig:DigestValue>
+        <dsig:DigestValue>ihO/VKwBHAVprgN6j9oYb72qTkjMEVWo8nBULYbO42A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -169,13 +191,13 @@
       <dsig:DigestValue>B7mP5W2P8kfeY7p4KC326jaZ1yYo2Je2+af77/mod8o=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="RegMaint.exe.config" size="583">
+  <file name="RegMaint.exe.config" size="591">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Ub2eiwsyune+3uk16o1C8teSyAw2JIBJBEq4Wmz+hm8=</dsig:DigestValue>
+      <dsig:DigestValue>OOBW/S+UUPg5u23zm+KuZ7xzynauvbJFhF0L2IzZcWE=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
