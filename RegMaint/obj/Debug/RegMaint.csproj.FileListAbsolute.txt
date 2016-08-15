@@ -57,3 +57,4 @@ C:\Users\Stephen\Projects\RegMaint\RegMaint\bin\Debug\log4net.config
 C:\Users\Stephen\Projects\RegMaint\RegMaint\obj\Debug\RegMaint.exe.licenses
 C:\Users\Stephen\Projects\RegMaint\RegMaint\obj\Debug\ucRegistrationGrid.g.cs
 C:\Users\Stephen\Projects\RegMaint\RegMaint\obj\Debug\ucRegistrationGrid.baml
+C:\Personal\RegMaint\RegMaint\bin\Debug\RegMaint.exe.config
